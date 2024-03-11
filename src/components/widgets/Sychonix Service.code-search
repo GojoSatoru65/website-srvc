@@ -1,0 +1,9 @@
+# Query: Sychonix Service
+# ContextLines: 1
+
+1 result - 1 file
+
+src/components/widgets/Hero.astro:
+  27      <h1 class="text-5xl md:text-[3.50rem] font-bold leading-tighter tracking-tighter mb-6 font-heading">
+  28:       Alfonodes Service
+  29      </h1>
