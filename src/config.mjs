@@ -1,13 +1,13 @@
 import defaultImage from './assets/images/sychonixx.png';
 
 const CONFIG = {
-  name: 'sychonix',
+  name: 'Alfonodes',
 
   origin: 'https://service.sychonix.me/',
   basePathname: '/',
   trailingSlash: false,
 
-  title: 'sychonix - Highly Secured Staking Provider',
+  title: 'Alfonodes - Highly Secured Staking Provider',
   description:
     'Validator & Node Operator Cosmos Networks',
   defaultImage: defaultImage,
