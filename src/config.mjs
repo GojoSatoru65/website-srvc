@@ -3,7 +3,7 @@ import defaultImage from './assets/images/sychonixx.png';
 const CONFIG = {
   name: 'Alfonodes',
 
-  origin: 'https://service.sychonix.me/',
+  origin: 'https://gojosatorus.live/',
   basePathname: '/',
   trailingSlash: false,
 
